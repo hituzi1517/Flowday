@@ -1,0 +1,16 @@
+{
+  "id": "./index.html",
+  "name": "Flowday — 動かせる勉強計画",
+  "short_name": "Flowday",
+  "description": "固定予定を動かさず、勉強時間を自動調整",
+  "lang": "ja",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8fc",
+  "theme_color": "#f7f8fc",
+  "icons": [
+    { "src": "./icons/icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "./icons/icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}
